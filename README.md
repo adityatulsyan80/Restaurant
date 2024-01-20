@@ -2,6 +2,6 @@ To start the website firstly we need docker which provides the runtime enviromen
 Than,
 Step 1. Type:- cd src/docker.  
 Step 2. Type:- docker compose up.  
-Step 3. Type:- yarn run dev.   //to run the website.
+Step 3. Type:- yarn run dev.   // to run the website on localhost 3000.
 
 To check the backend to add and remove:- product, category and order:- Type :- npx prisma studio. 
